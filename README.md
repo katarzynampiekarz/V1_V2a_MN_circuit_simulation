@@ -37,7 +37,7 @@ In subsequent simulations the connectivity was altered, so that V1 interneurons 
 
 <p align="center">
 <img src="https://github.com/katarzynampiekarz/V1_V2a_MN_circuit_simulation/blob/main/my_results.png?raw=true" width="900"><br>
-<figcap>Fig.3. The raster plot showing the firing patterns in the re-implemented simulation.</figcap>
+<figcap>Fig.3. The raster plots showing the firing patterns in the re-implemented simulation.</figcap>
 </p>
 
 ## References
