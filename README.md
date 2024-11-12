@@ -24,7 +24,7 @@ The network is composed of four neuronal populations distributed among 15 spinal
 The connectivity matrices from Sengupta et al. (2021) served as a starting point, and were modified to better render the network firing behavior in Brian2. The five pacemaker neurons are connected all-to-all (except themselves) with each other through gap junctions, as well as to the four most rostrally located V2a neurons (also via gap junctions). V2a interneurons are connected to each other up to three segments away in both directions via excitatory synapses. V2a then provide excitatory inputs to MNs located up to two segments rostrally and three segments caudally, as well as to V1 interneurons located up to six segments caudally. V1 interneurons form inhibitory connections with V2a interneurons and MNs located 1-3 segments rostrally. Lastly, V1 interneurons project back to the pacemaker cells.
 
 <p align="center">
-<img src="https://github.com/katarzynampiekarz/V1_V2a_MN_circuit_simulation/blob/main/connectivity_all.png?raw=true" width="700"><br>
+<img src="https://github.com/katarzynampiekarz/V1_V2a_MN_circuit_simulation/blob/main/connectivity_all2.png?raw=true" width="700"><br>
 <figcap>Fig.2. The network connectivity.</figcap>
 </p>
 
